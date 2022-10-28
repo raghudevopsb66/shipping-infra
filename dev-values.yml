@@ -1,6 +1,6 @@
 componentName: shipping
 appPort: 8080
-appVersion: 3.0.1
+appVersion: 3.0.2
 externalSecret:
   enabled: true
 resources:
