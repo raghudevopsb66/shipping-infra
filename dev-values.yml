@@ -5,10 +5,10 @@ externalSecret:
   enabled: true
 resources:
    limits:
-     cpu: 2000m
+     cpu: 1000m
      memory: 3500Mi
    requests:
-     cpu: 2000m
+     cpu: 1000m
      memory: 3500Mi
 autoscaling:
   enabled: true
